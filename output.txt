@@ -1,0 +1,7 @@
+Enter average hours worked per month:  180.0
+Enter satisfaction score (0-1):  0.6
+Enter satisfaction Z-score:  0.3
+Enter review Z-score:  0.7
+Enter review score:  0.75
+Enter tenure (number of years at the company):  5.0
+Will the employee leave? no
