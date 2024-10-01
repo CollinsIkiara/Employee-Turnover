@@ -1,5 +1,5 @@
 # Employee Turnover Analysis and Prediction  
-by [Collins Ikiara], 2024  
+by Collins Ikiara, 2024  
 
 ## Project Title  
 Employee Turnover Analysis and Prediction  
