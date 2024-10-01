@@ -39,7 +39,7 @@ The dataset used for this analysis includes various features such as:
 - **Promoted**: 1 if the employee was promoted in the previous 24 months, 0 otherwise. (integer)  
 - **Review**: The composite score the employee received in their last evaluation. (decimal/float)  
 - **Projects**: How many projects the employee is involved in. (integer)  
-- **Salary**: For confidentiality reasons, salary comes in three tiers: low, medium, high. (categorical)  
+- **Salary**: For confidentiality reasons, salary comes in three tiers: low, medium, and high. (categorical)  
 - **Tenure**: How many years the employee has been at the company. (decimal/float)  
 - **Satisfaction**: A measure of employee satisfaction from surveys. (decimal/float)  
 - **Bonus**: 1 if the employee received a bonus in the previous 24 months, 0 otherwise. (integer)  
@@ -77,9 +77,9 @@ The analysis process follows these key steps:
 
 
 ## Results  
-The analysis identified significant factors contributing to employee turnover, such as job satisfaction and salary.  
-The machine learning models used in this project achieved accurate predictions, with the most successful model being evaluated using metrics like accuracy, precision, recall, and F1-score.  
-Insights from this analysis can help companies improve employee retention strategies by focusing on key factors affecting turnover.
+- The analysis identified significant factors contributing to employee turnover, such as job satisfaction and salary.  
+- The machine learning models used in this project achieved accurate predictions, with the most successful model being evaluated using metrics like accuracy, precision, recall, and F1-score.  
+- Insights from this analysis can help companies improve employee retention strategies by focusing on key factors affecting turnover.
 
 ## Contributors
 - [Collins Ikiara](https://github.com/CollinsIkiara)
